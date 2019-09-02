@@ -35,7 +35,6 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-If the Link doesn't work try: https://gph.is/g/E068GQV
 
 ## License
 
