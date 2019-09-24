@@ -45,7 +45,7 @@ Updating the date label
 
 ## License
 
-Copyright [2019] [YOUR NAME]
+Copyright [2019] [Matthew Lambert and Giovanny Cerna]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
