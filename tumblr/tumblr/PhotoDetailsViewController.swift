@@ -15,7 +15,6 @@ class PhotoDetailsViewController: UIViewController {
     @IBOutlet weak var photoDetailView: UIImageView!
     override func viewDidLoad() {
         super.viewDidLoad()
-        print(photo)
         setUpImageView()
         // Do any additional setup after loading the view.
     }
